@@ -1,10 +1,3 @@
-## 🚀 Live Demo
-
-👉 **Live Website:**  
-https://saurabh18082005-cyber.github.io/new-year-project/
-
----
-
 ## 📬 How the Message Box Works
 
 - Users can write any message in the message box.
